@@ -1,0 +1,33 @@
+{
+  "login": {
+    "title": "تسجيل الدخول",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "loginButton": "دخول",
+    "error": "بيانات الدخول غير صحيحة"
+  },
+  "home": {
+    "welcome": "مرحباً {{username}} 👋",
+    "description": "مرحباً بك في المكتبة القانونية للإدارة التنفيذية للشؤون القانونية",
+    "logout": "تسجيل الخروج"
+  },
+  "library": {
+    "title": "المكتبة",
+    "consultations": "الاستشارات القانونية",
+    "category": "التصنيف",
+    "date": "التاريخ",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "consultation": {
+    "title": "عنوان الاستشارة",
+    "question": "الاستشارة القانونية",
+    "answer": "الرأي القانوني",
+    "category": "التصنيف",
+    "date": "التاريخ",
+    "backToLibrary": "العودة للمكتبة"
+  },
+  "common": {
+    "language": "اللغة",
+    "english": "English"
+  }
+}

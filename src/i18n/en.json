@@ -1,0 +1,33 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "error": "Invalid login credentials"
+  },
+  "home": {
+    "welcome": "Welcome {{username}} 👋",
+    "description": "Welcome to the Digital Library of Legal Consultations",
+    "logout": "Logout"
+  },
+  "library": {
+    "title": "Library",
+    "consultations": "Consultations",
+    "category": "Category",
+    "date": "Date",
+    "viewDetails": "View Details"
+  },
+  "consultation": {
+    "title": "Consultation Title",
+    "question": "Question",
+    "answer": "Answer",
+    "category": "Category",
+    "date": "Date",
+    "backToLibrary": "Back to Library"
+  },
+  "common": {
+    "language": "Language",
+    "arabic": "العربية"
+  }
+}
